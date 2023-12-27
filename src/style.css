@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #352f5b;
+}
+h1 {
+  text-shadow: 1px 1px #2cefff, 2px 2px #2cefff, 3px 3px #2cefff,
+    4px 4px #ff2c86, 5px 5px #ff2c86, 6px 6px #ff2c86;
+}
